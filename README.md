@@ -1,5 +1,4 @@
----
-# Suivi d'activité d'un entrepôt – Excel
+# Suivi d'activité d'un entrepôt
 
 **Outil** : Excel · **Projet 2**
 
@@ -22,4 +21,3 @@
 **Compétences** : visualisation accessible, graphiques adaptés au public
 
 **Fichiers** : `P2_indicateurs_042026.xlsx`, `P2_presentation_042026.pptx`
----
